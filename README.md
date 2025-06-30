@@ -1,7 +1,9 @@
 <!-- GitHub Profile README for jamiialii9139 -->
 
 # Hi there, I'm Abdo 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 🎯 **Frontend & Ai Engineer**  
 🌍 Based in Cairo | ✉️ abdelrahmanmohamed213@gmail.com  
 
@@ -44,17 +46,7 @@ A modern, responsive online store built with vanilla HTML, CSS, JS and evolving 
 
 ---
 
-## 📊 GitHub Stats
 
-![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiialii9139&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiialii9139&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jamiialii9139@gmail.com)
 
 ---
 
