@@ -1,4 +1,4 @@
-**<!-- Elegant GitHub Profile README for Abdelrahman Mohamed -->
+<!-- Elegant GitHub Profile README for Abdelrahman Mohamed -->
 
 <h1 align="center">Hi there, I'm Abdelrahman Mohamed 👋</h1>
 
@@ -11,8 +11,8 @@
 ### 👨‍🎓 About Me
 
 🎓 I'm a **Computer Science graduate** specialized in **Artificial Intelligence** and **Web Development**.  
-🎯 My passion lies in **frontend engineering**, where creativity meets technology.  
-🌐 I enjoy building interactive, user-centric web interfaces with modern tools and elegant design.  
+🎯 Passionate about building elegant, efficient, and user-friendly web interfaces.  
+🌐 Focused on frontend technologies, UI/UX design, and creative digital solutions.
 
 ---
 
@@ -36,29 +36,29 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamiialii9139&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiialii9139&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmohamed213&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanmohamed213&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🧠 Current Focus
+### 🧠 Currently Learning
 
-- ✨ Sharpening React and UI/UX design skills  
-- 🤖 Exploring AI projects with Python  
-- 💡 Building elegant and efficient frontend apps  
+- ✨ Advanced frontend techniques (React Hooks, Context API)
+- 🎨 UI/UX best practices and component libraries
+- 🤖 Python for AI & ML projects
+- 💡 Building full-stack apps and portfolio websites
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Gmail](https://img.shields.io/badge/-jamiialii9139@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamiialii9139@gmail.com)
+[![Gmail](https://img.shields.io/badge/-abdelrahmanmohamed213@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmanmohamed213@gmail.com)
 
 ---
 
-### 🐍 Contribution Animation (Optional Snake)
+> _“Code is poetry, and every line should speak with elegance and purpose.”_
 
-```markdown
-![Snake animation](https://github.com/jamiialii9139/jamiialii9139/blob/output/github-contribution-grid-snake.svg)
-**
+<!-- Optional Snake animation if enabled -->
+<!-- ![Snake animation](https://github.com/abdelrahmanmohamed213/abdelrahmanmohamed213/blob/output/github-contribution-grid-snake.svg) -->
