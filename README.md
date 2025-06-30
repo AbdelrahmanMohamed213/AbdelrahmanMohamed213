@@ -1,4 +1,4 @@
-<!-- Elegant GitHub Profile README for Abdelrahman Mohamed -->
+**<!-- Elegant GitHub Profile README for Abdelrahman Mohamed -->
 
 <h1 align="center">Hi there, I'm Abdelrahman Mohamed 👋</h1>
 
@@ -61,3 +61,4 @@
 
 ```markdown
 ![Snake animation](https://github.com/jamiialii9139/jamiialii9139/blob/output/github-contribution-grid-snake.svg)
+**
