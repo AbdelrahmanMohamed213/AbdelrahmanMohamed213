@@ -1,6 +1,9 @@
 <!-- Elegant GitHub Profile README for Abdelrahman Mohamed -->
 
 <h1 align="center">Hi there, I'm Abdelrahman Mohamed 👋</h1>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybTYwMm5hcmNuYWQ2MHlwZ3l1NDZreG9yNmZ2a3lpZjgwcWcxNDl1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ArzbGWLVNQzRv1aAL/source.gif" width="400" alt="coding gif">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=2A73C2&center=true&vCenter=true&width=450&lines=Frontend+Web+Developer;AI+Enthusiast;Computer+Science+Graduate" alt="Typing SVG" />
