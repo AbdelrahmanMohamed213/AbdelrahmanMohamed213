@@ -1,8 +1,11 @@
 <!-- Elegant GitHub Profile README for Abdelrahman Mohamed -->
 
 <h1 align="center">Hi there, I'm Abdelrahman Mohamed 👋</h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.giphy.com/8ArzbGWLVNQzRv1aAL.webp" width="400" alt="coding gif">
+</p> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="coding gif">
 </p>
 
 <p align="center">
