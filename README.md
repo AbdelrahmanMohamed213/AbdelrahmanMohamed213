@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Abdelrahman Mohamed 👋</h1>
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybTYwMm5hcmNuYWQ2MHlwZ3l1NDZreG9yNmZ2a3lpZjgwcWcxNDl1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ArzbGWLVNQzRv1aAL/source.gif" width="400" alt="coding gif">
+  <img src[="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUybTYwMm5hcmNuYWQ2MHlwZ3l1NDZreG9yNmZ2a3lpZjgwcWcxNDl1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8ArzbGWLVNQzRv1aAL/source.gif](https://i.giphy.com/8ArzbGWLVNQzRv1aAL.webp)" width="400" alt="coding gif">
 </p>
 
 <p align="center">
