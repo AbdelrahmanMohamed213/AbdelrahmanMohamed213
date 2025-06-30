@@ -2,10 +2,10 @@
 
 # Hi there, I'm Abdo 👋
 
-🎯 **Frontend & Aspiring Full-Stack Developer**  
-🌍 Based in [Your City] | ✉️ jamiialii9139@gmail.com  
+🎯 **Frontend & Ai Engineer**  
+🌍 Based in Cairo | ✉️ abdelrahmanmohamed213@gmail.com  
 
-I'm passionate about turning ideas into real-world web applications. Currently, I'm building a modern **e-commerce website** and diving deeper into **backend development** and **databases**.
+I'm passionate about turning ideas into real-world web applications.
 
 ---
 
@@ -15,11 +15,6 @@ I'm passionate about turning ideas into real-world web applications. Currently, 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-
-**Backend (Learning):**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
 **Tools:**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
